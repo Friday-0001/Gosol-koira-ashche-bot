@@ -19,7 +19,7 @@
   <hr style="width:90%;opacity:0.2"/>
 
   <h2>
-    <img src="y+Mohammad+Akash." alt="about-typing" />
+    <img src="y+Tamim+Bbz." alt="about-typing" />
   </h2>
 
   <h3>
