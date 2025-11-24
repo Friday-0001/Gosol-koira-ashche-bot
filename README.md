@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+Goat+Bot+V2+—+by+𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝+𝐀𝐤𝐚𝐬𝐡+🐐" alt="Goat Bot V2"/>
+    <img src="t+Bot+V2+—+by+Tamim Bbz+🐐" alt="Goat Bot V2"/>
   </p>
 
   <p align="center" style="margin-top:15px; margin-bottom: 10px;">
@@ -13,13 +13,13 @@
   <img src="https://i.imgur.com/yQTQfNI.jpeg" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="Mohammad Akash"/>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=580&lines=🚀+Goat+Bot+V2+Reloaded;⚡+Built+by+Mohammad+Akash;💫+Fast%2C+Smart+%26+Reliable;💥+Messenger+Bot+Evolution" alt="sub"/>
+    <img src="ssenger+Bot+Evolution" alt="sub"/>
   </p>
 
   <hr style="width:90%;opacity:0.2"/>
 
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FFD1&center=true&vCenter=true&width:760&lines=🌟+About;Goat+Bot+V2+—+A+next-level+Facebook+Messenger+bot,+redefined+by+Mohammad+Akash." alt="about-typing" />
+    <img src="y+Mohammad+Akash." alt="about-typing" />
   </h2>
 
   <h3>
