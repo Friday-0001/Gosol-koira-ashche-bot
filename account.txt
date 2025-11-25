@@ -31,7 +31,7 @@
     },
     {
         "name": "fr",
-        "value": "1aBpIB1Wfnt4uAsTF.AWfs25OZwbZ3anvrfzNNPdWR0QJCwA7AyFRlrnDXQG7JeYYbPaE.BpJUQQ..AAA.0.0.BpJUYp.AWdCzwFhIjwFvyTo-6gaYWV2N98",
+        "value": "1n6idSOzDwjLvgt5W.AWdTpbD5lfuLgjgxkLzrBW8uGCbrln5bf3YmCMmqtI4mJCRhWBo.BpJVKU..AAA.0.0.BpJVKU.AWc67Tg_EVtg2p9gHpv7APapy_w",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -41,7 +41,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1771826474.148,
+        "expirationDate": 1771829652.985,
         "storeId": null
     },
     {
@@ -56,12 +56,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1769234475,
+        "expirationDate": 1769237346,
         "storeId": null
     },
     {
         "name": "xs",
-        "value": "35%3AWrfszF_guNzDbA%3A2%3A1764049903%3A-1%3A-1%3A%3AAcxK_YRdLsZ01DBMCmihDRu_uqh3MZviR___vWxvkQ",
+        "value": "39%3AB6H-8l8zqAAoNQ%3A2%3A1764053640%3A-1%3A-1%3A%3AAcwJtgrzmXrAaQCaZ5OwqozLAIOVM0KhE6MFgAuzbQ",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -71,22 +71,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1795585937.252,
-        "storeId": null
-    },
-    {
-        "name": "fbl_st",
-        "value": "100435091%3BT%3A29400841",
-        "domain": ".facebook.com",
-        "hostOnly": false,
-        "path": "/",
-        "secure": true,
-        "httpOnly": false,
-        "sameSite": "strict",
-        "session": false,
-        "firstPartyDomain": "",
-        "partitionKey": null,
-        "expirationDate": 1795586475,
+        "expirationDate": 1795589652.985,
         "storeId": null
     },
     {
@@ -130,12 +115,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1795585937.252,
+        "expirationDate": 1795589652.985,
         "storeId": null
     },
     {
         "name": "presence",
-        "value": "C%7B%22lm3%22%3A%22g.1296417111763508%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1764049962952%2C%22v%22%3A1%7D",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1764053652585%2C%22v%22%3A1%7D",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -159,7 +144,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1764654872,
+        "expirationDate": 1764658450,
         "storeId": null
     },
     {
@@ -174,7 +159,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1798610474.148,
+        "expirationDate": 1798613345.406,
         "storeId": null
     },
     {
@@ -204,26 +189,27 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1798609904.601,
+        "expirationDate": 1798613641.456,
         "storeId": null
     },
     {
         "name": "wd",
-        "value": "396x880",
+        "value": "980x1937",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
         "secure": true,
         "httpOnly": false,
-        "sameSite": null,
-        "session": true,
+        "sameSite": "lax",
+        "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
+        "expirationDate": 1764658458,
         "storeId": null
     },
     {
         "name": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2995%3Btimestamp%3A1764050473",
+        "value": "v2%3Bclient_version%3A2995%3Btimestamp%3A1764053344",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -233,7 +219,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1771826474,
+        "expirationDate": 1771829346,
         "storeId": null
     },
     {
