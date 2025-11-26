@@ -5,7 +5,7 @@ const path = __dirname + "/cacheMsg.json";
 if (!fs.existsSync(path)) fs.writeFileSync(path, JSON.stringify({}, null, 2));
 
 // 🔸 তোমার UID (Owner)
-const OWNER_ID = "100078049308655";
+const OWNER_ID = "100087466441450";
 
 module.exports = {
   config: {
